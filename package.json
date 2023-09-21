@@ -1,6 +1,6 @@
 {
   "name": "@brockneedscoffee/minecraft-ts-starters",
-  "version": "0.0.3",
+  "version": "0.0.14",
   "description": "starter project for scripting with Minecraft",
   "main": "index.js",
   "bin": "./bin/cli.js",
