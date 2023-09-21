@@ -1,6 +1,6 @@
 {
   "name": "@brockneedscoffee/minecraft-ts-starters",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "starter project for scripting with Minecraft",
   "main": "index.js",
   "bin": "./bin/cli.js",
@@ -25,7 +25,8 @@
     "gulp-sourcemaps": "^3.0.0",
     "gulp-typescript": "^6.0.0-alpha.1",
     "source-map": "^0.7.4",
-    "typescript": "^4.4.3"
+    "typescript": "^4.4.3",
+    "uuid": "^9.0.1"
   },
   "dependencies": {
     "@minecraft/server": "^1.5.0",
